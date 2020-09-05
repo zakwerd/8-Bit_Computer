@@ -8,4 +8,4 @@ This project was inspired by [Ben Eater's 8-Bit computer](https://www.youtube.co
 
 ## Table of Contents:
 - 8-Bit Computer Clock
-  - [8-Bit Computer Clock Overview](Computer_Clock_README.md) 
+  - [8-Bit Computer Clock Overview](https://github.com/zakwerd/8-Bit_Computer/blob/master/Computer%20Clock/Computer_Clock_README.md) 
